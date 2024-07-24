@@ -1,0 +1,396 @@
+{
+    "users": [
+      {
+        "id": "fc18",
+        "fullName": "Saqib ",
+        "email": "saqib@gmail.com",
+        "password": "Saqib@123",
+        "gender": "male",
+        "bookedAppointments": [
+          {
+            "id": "1721468234260",
+            "userId": "fc18",
+            "date": "2024-06-20",
+            "time": "10:00 AM",
+            "doctor": "Dr. Michael Lee",
+            "department": "Orthopedics",
+            "hospitalName": "Noora Hospital"
+          },
+          {
+            "id": "1721468262964",
+            "userId": "fc18",
+            "date": "2024-06-20",
+            "time": "01:00 PM",
+            "doctor": "Dr. Pankaj Rajvanshi",
+            "department": "Gastrology",
+            "hospitalName": "Noora Hospital"
+          }
+        ],
+        "bookedTests": [
+          {
+            "id": "1721468333412",
+            "userId": "fc18",
+            "date": "2024-06-20",
+            "time": "11:00 AM",
+            "testName": "MRI Scan",
+            "price": "2500"
+          }
+        ],
+        "bookedMedicines": [
+          {
+            "id": "1721468302892",
+            "userId": "fc18",
+            "medicineName": "Lipitor",
+            "price": "20",
+            "dosage": "20 mg",
+            "quantity": "6"
+          }
+        ]
+      },
+      {
+        "id": "e528",
+        "name": "Majid",
+        "email": "majid@gmail.com",
+        "password": "Majid123",
+        "gender": "male",
+        "bookedAppointments": [
+          {
+            "id": "1721468386803",
+            "userId": "e528",
+            "date": "2024-06-21",
+            "time": "12:00 PM",
+            "doctor": "Dr. John Doe",
+            "department": "Cardiology",
+            "hospitalName": "Noora Hospital"
+          }
+        ],
+        "bookedTests": [
+          {
+            "id": "1721468429819",
+            "userId": "e528",
+            "date": "2024-06-21",
+            "time": "01:00 PM",
+            "testName": "X-ray",
+            "price": "100"
+          }
+        ],
+        "bookedMedicines": [
+          {
+            "id": "1721468403675",
+            "userId": "e528",
+            "medicineName": "Lipitor",
+            "price": "20",
+            "dosage": "20 mg",
+            "quantity": "3"
+          }
+        ]
+      },
+      {
+        "id": "c919",
+        "name": "basit",
+        "email": "basit@gmail.com",
+        "password": "Basu",
+        "gender": "male",
+        "bookedAppointments": [],
+        "bookedTests": [],
+        "bookedMedicines": []
+      },
+      {
+        "id": "002c",
+        "name": "Mushraf Ali",
+        "email": "mushraf@gmail.com",
+        "password": "Mushraf",
+        "gender": "male",
+        "bookedAppointments": [],
+        "bookedTests": [],
+        "bookedMedicines": []
+      },
+      {
+        "id": "bbe6",
+        "name": "Umer",
+        "email": "umer@gmail.com",
+        "password": "umer",
+        "gender": "male",
+        "bookedAppointments": [],
+        "bookedTests": [],
+        "bookedMedicines": []
+      },
+      {
+        "id": "e3a4",
+        "name": "Adil",
+        "email": "adil@gmail.com",
+        "password": "adil",
+        "gender": "male",
+        "bookedAppointments": [],
+        "bookedTests": [],
+        "bookedMedicines": []
+      },
+      {
+        "id": "6f7c",
+        "name": "Batool",
+        "email": "batool@gmail.com",
+        "password": "batool",
+        "gender": "male",
+        "bookedAppointments": [],
+        "bookedTests": [],
+        "bookedMedicines": []
+      },
+      {
+        "id": "c05b",
+        "name": "Farhan",
+        "email": "farhan@gmail.com",
+        "password": "123",
+        "gender": "male",
+        "bookedAppointments": [],
+        "bookedTests": [],
+        "bookedMedicines": []
+      },
+      {
+        "id": "2380",
+        "name": "Ansar Ali",
+        "email": "bhatansar03@gmail.com",
+        "password": "123",
+        "gender": "male",
+        "bookedAppointments": [
+          {
+            "id": "1721538350622",
+            "userId": "2380",
+            "date": "2024-06-21",
+            "time": "11:00 AM",
+            "doctor": "Dr. John Doe",
+            "department": "Cardiology",
+            "hospitalName": "Noora Hospital"
+          }
+        ],
+        "bookedTests": [],
+        "bookedMedicines": [
+          {
+            "id": "1721536150943",
+            "userId": "2380",
+            "medicineName": "Lipitor",
+            "price": 100,
+            "dosage": "20 mg",
+            "quantity": "5"
+          }
+        ]
+      },
+      {
+        "id": "e105",
+        "name": "Wajid Farooq",
+        "email": "wajid@gmail.com",
+        "password": "123",
+        "gender": "male",
+        "bookedAppointments": [],
+        "bookedTests": [],
+        "bookedMedicines": []
+      },
+      {
+        "id": "2883",
+        "name": "Uzair Bhat",
+        "email": "uzair12@gmail.com",
+        "password": "123",
+        "gender": "male",
+        "bookedAppointments": [],
+        "bookedTests": [],
+        "bookedMedicines": []
+      }
+    ],
+    "appointments": [
+      {
+        "id": "1",
+        "date": "2024-06-10",
+        "time": "10:00 AM",
+        "doctor": "Dr. John Doe",
+        "department": "Cardiology",
+        "hospitalName": "Noora Hospital",
+        "src": "https://t4.ftcdn.net/jpg/02/60/04/09/360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg"
+      },
+      {
+        "id": "2",
+        "date": "2024-06-16",
+        "time": "2:00 PM",
+        "doctor": "Dr. Jenny",
+        "department": "Neurology",
+        "hospitalName": "City Hospital",
+        "src": "https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg"
+      },
+      {
+        "id": "3",
+        "date": "2024-06-20",
+        "time": "11:30 AM",
+        "doctor": "Dr. Sarah Brown",
+        "department": "Dermatology",
+        "hospitalName": "City Hospital",
+        "src": "https://img.freepik.com/premium-photo/medical-concept-indian-beautiful-female-doctor-white-coat-with-stethoscope-waist-up-medical-student-woman-hospital-worker-looking-camera-smiling-studio-blue-background_185696-621.jpg"
+      },
+      {
+        "id": "4",
+        "date": "2024-06-25",
+        "time": "9:00 AM",
+        "doctor": "Dr. Michael Lee",
+        "department": "Orthopedics",
+        "hospitalName": "Noora Hospital",
+        "src": "https://www.shutterstock.com/image-photo/healthcare-medical-staff-concept-portrait-600nw-2281024823.jpg"
+      },
+      {
+        "id": "5",
+        "date": "2024-06-27",
+        "time": "3:00 PM",
+        "doctor": "Dr. Joseph Opanel",
+        "department": "Gynaecology",
+        "hospitalName": "City Hospital",
+        "src": "https://t4.ftcdn.net/jpg/03/20/52/31/360_F_320523164_tx7Rdd7I2XDTvvKfz2oRuRpKOPE5z0ni.jpg"
+      },
+      {
+        "id": "6",
+        "date": "2024-06-29",
+        "time": "5:00 PM",
+        "doctor": "Dr. Pankaj Rajvanshi",
+        "department": "Gastrology",
+        "hospitalName": "Noora Hospital",
+        "src": "https://static.vecteezy.com/system/resources/thumbnails/030/928/115/small/handsome-indian-doctor-generate-ai-photo.jpg"
+      },
+      {
+        "id": "7",
+        "date": "2024-06-10",
+        "time": "10:00 AM",
+        "doctor": "Dr. Shobit Verma",
+        "department": "Geriatrics",
+        "hospitalName": "Noora Hospital",
+        "src": "https://static.vecteezy.com/system/resources/thumbnails/028/287/384/small/a-mature-indian-male-doctor-on-a-white-background-ai-generated-photo.jpg"
+      },
+      {
+        "id": "8",
+        "date": "2024-07-07",
+        "time": "2:00 PM",
+        "doctor": "Dr. Mason Qiu",
+        "department": "Pulmonologist",
+        "hospitalName": "City Hospital",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWLg70Aboc22P_Scd5co4s_f04oTqwnnIHw&s"
+      },
+      {
+        "id": "9",
+        "date": "2024-07-04",
+        "time": "11:30 AM",
+        "doctor": "Dr. Elica Jackson",
+        "department": "Hematology",
+        "hospitalName": "City Hospital",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7_TCN1EiCRhLankSYHPj0l76OmLYz10n88g&s"
+      },
+      {
+        "id": "10",
+        "date": "2024-07-01",
+        "time": "9:00 AM",
+        "doctor": "Dr. Mantasha",
+        "department": "Anesthesiology",
+        "hospitalName": "Noora Hospital",
+        "src": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg"
+      },
+      {
+        "id": "11",
+        "date": "2024-06-25",
+        "time": "2:00 PM",
+        "doctor": "Dr. Edwin Li",
+        "department": "Oncologist",
+        "hospitalName": "City Hospital",
+        "src": "https://media.istockphoto.com/id/1494324933/photo/portrait-of-asian-chinese-mixed-race-senior-mature-man-doctor-in-collared-business-shirt.webp?b=1&s=170667a&w=0&k=20&c=AQn0qlSIbjun7Qs0nCAnMs4pfOYGysAyL0j6KuuvhJU="
+      },
+      {
+        "id": "12",
+        "date": "2024-06-30",
+        "time": "6:00 PM",
+        "doctor": "Dr. Alfonso Salazar",
+        "department": "Neurology",
+        "hospitalName": "Noora Hospital",
+        "src": "https://t4.ftcdn.net/jpg/01/96/53/53/360_F_196535326_RcQ5bNXuvOsvDqfqqPbFASX2pPRCyivF.jpg"
+      }
+    ],
+    "medicines": [
+      {
+        "id": "1",
+        "name": "Aspirin",
+        "dosage": "100 mg",
+        "price": "10",
+        "src": "https://t4.ftcdn.net/jpg/02/81/42/77/360_F_281427785_gfahY8bX4VYCGo6jlfO8St38wS9cJQop.jpg"
+      },
+      {
+        "id": "2",
+        "name": "Lipitor",
+        "dosage": "20 mg",
+        "price": "20",
+        "src": "https://media.istockphoto.com/id/1335286979/photo/pills-spilling-out-from-yellow-container-medical-and-pharmaceutical-concept.jpg?s=612x612&w=0&k=20&c=T-uVbQWOTUiCDrjejRmq9Y1KXT_fohJikH5NX4TrHSo="
+      },
+      {
+        "id": "3",
+        "name": "Paracetamol",
+        "dosage": "500 mg",
+        "price": "5",
+        "src": "https://cdn.pixabay.com/photo/2023/10/01/14/40/medicine-8287535_640.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Ibuprofen",
+        "dosage": "200 mg",
+        "price": "8",
+        "src": "https://st2.depositphotos.com/1576106/9950/i/450/depositphotos_99501218-stock-photo-medicines-and-drugs.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Amoxicillin",
+        "dosage": "500 mg",
+        "price": "80",
+        "src": "https://media.istockphoto.com/id/1153740646/photo/background-of-a-large-group-of-assorted-capsules-pills-and-blisters.jpg?s=612x612&w=0&k=20&c=Lbd_NdmQSRfrLP95MmPRTEnyJBShBk8ceVZBorlFZ2s="
+      },
+      {
+        "id": "6",
+        "name": "Azithromycin",
+        "dosage": "650 mg",
+        "price": "120",
+        "src": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-11/22/full/1669136613-2225.jpg?im=FeatureCrop,size=(826,465)"
+      }
+    ],
+    "tests": [
+      {
+        "id": "1",
+        "type": "Blood Test",
+        "date": "2024-06-12",
+        "price": "100",
+        "src": "https://www.metropolisindia.com/upgrade/blog/upload/2023/08/WhatsApp-Image-2023-08-29-at-4.17.55-PM.webp"
+      },
+      {
+        "id": "2",
+        "type": "MRI Scan",
+        "date": "2024-06-18",
+        "price": "2500",
+        "src": "https://medimaahealth.in/assets/img/services/mri.jpg"
+      },
+      {
+        "id": "3",
+        "type": "X-ray",
+        "date": "2024-06-20",
+        "price": "100",
+        "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSyyvXCTJb3dQpPyr_85EYnmvNgUqB_Rf0oA&s"
+      },
+      {
+        "id": "4",
+        "type": "Eye Test",
+        "date": "2024-06-25",
+        "price": "300",
+        "src": "https://carecredit.com/sites/cc/image/types-eye-tests.jpg"
+      },
+      {
+        "id": "5",
+        "type": "Biopsy",
+        "date": "2024-06-25",
+        "price": "700",
+        "src": "https://www.verywellhealth.com/thmb/QVwAZqiEVY7JT0yQXW9wSeRG274=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/thyroid-biopsy-GettyImages-1481836292-0bf166d3e87f4050a29c22d403a214dd.jpg"
+      },
+      {
+        "id": "6",
+        "type": "Covid",
+        "date": "2024-06-25",
+        "price": "350",
+        "src": "https://www.gavi.org/sites/default/files/vaccineswork/2021/Thumb/shutterstock_1808630479_h2.jpg"
+      }
+    ]
+  }
