@@ -265,7 +265,7 @@
         "time": "2:00 PM",
         "doctor": "Dr. Mason Qiu",
         "department": "Pulmonologist",
-        "hospitalName": "City Hospital",
+        "hospitalName": "Paras Hospital",
         "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNWLg70Aboc22P_Scd5co4s_f04oTqwnnIHw&s"
       },
       {
@@ -283,7 +283,7 @@
         "time": "9:00 AM",
         "doctor": "Dr. Mantasha",
         "department": "Anesthesiology",
-        "hospitalName": "Noora Hospital",
+        "hospitalName": "Paras Hospital",
         "src": "https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg"
       },
       {
@@ -301,7 +301,7 @@
         "time": "6:00 PM",
         "doctor": "Dr. Alfonso Salazar",
         "department": "Neurology",
-        "hospitalName": "Noora Hospital",
+        "hospitalName": "Paras Hospital",
         "src": "https://t4.ftcdn.net/jpg/01/96/53/53/360_F_196535326_RcQ5bNXuvOsvDqfqqPbFASX2pPRCyivF.jpg"
       }
     ],
